@@ -1,5 +1,5 @@
 21.12.19
-
+#
 Things to do :
 
 - [ ] upload all repos from diferents computers and git acounts in this main account
