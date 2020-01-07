@@ -9,5 +9,6 @@ Things to do :
 
 
 Codes to advance : 
+- [ ] finish angular course
 - [ ] finish the flappyBird generic AI 
 - [x] Finish my changes
